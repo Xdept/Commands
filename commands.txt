@@ -1,2 +1,4 @@
 Debian:
 update-rc.d -f apache2 remove
+
+FreeBSD:
